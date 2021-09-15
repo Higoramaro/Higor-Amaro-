@@ -2,6 +2,8 @@
 
  Gosto de tecnlogia desde de pequeno
  Atualmente estou cursando Ciencia da Computação
+ 
+ Busco um estágio na área de front end
 
 <div  style="display:inline_block"><br>
   
