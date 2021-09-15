@@ -1,4 +1,7 @@
-## Prazer ! Eu sou o Higor Amaro, gosto de tecnologia desde de criança 
+## Prazer ! Eu sou o Higor Amaro
+
+ Gosto de tecnlogia desde de pequeno
+ Atualmente estou cursando Ciencia da Computação
 
 <div  style="display:inline_block"><br>
   
