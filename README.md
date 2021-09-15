@@ -1,6 +1,6 @@
 ## Prazer ! Eu sou o Higor Amaro
 
- Gosto de tecnlogia desde de pequeno
+ Sou apaixonado 😍 por tecnologia desde de criança 
 
 ## biografia
  Atualmente estou cursando Ciencia da Computação
