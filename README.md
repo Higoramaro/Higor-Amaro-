@@ -17,3 +17,6 @@ apaixonado por tecnologia 😍
 HTML
 CSS
 Python
+
+
+##LinkedIn = higor-amaro
