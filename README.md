@@ -13,8 +13,8 @@ apaixonado por tecnologia 😍
 </div>
 
 ## Conhecimentos 
-<img src="https://cdn.discordapp.com/attachments/961734780540571728/961741268331954196/1216733.png">
-<img src=" https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg ">
+<img width ="22px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268331954196/1216733.png">
+<img width ="22px" src=" https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg ">
 
 HTML CSS JAVASCRIPT 
 
