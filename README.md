@@ -13,9 +13,9 @@ apaixonado por tecnologia 😍
 </div>
 
 ## Conhecimentos
-<img height ="50"
+<img height ="50" href=""
 
 ## LinkedIn 
-   <img height="50" href="https://www.linkedin.com/in/higor-amaro" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png" href="https://www.linkedin.com/in/higor-amaro"/>
 
 higor-amaro
