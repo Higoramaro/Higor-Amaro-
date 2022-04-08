@@ -13,9 +13,12 @@ apaixonado por tecnologia 😍
 </div>
 
 ## Conhecimentos 
-<img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268331954196/1216733.png">
+  <tr>
+
+ <th><img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268331954196/1216733.png"> 
 <img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741267849584650/logo-css-3-2048.png">
-<img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268143198218/Unofficial_JavaScript_logo_2.svg.png">
+<img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268143198218/Unofficial_JavaScript_logo_2.svg.png"> </th>
+  
 
 
 
