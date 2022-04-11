@@ -1,23 +1,19 @@
-## Prazer ! Eu sou o Higor Amaro
+#👋Prazer ! meu nome é Higor Amaro Inocêncio.
+Comecei gostar de tecnologia desde pequeno, foi então em 2018 quando terminei meu ensino médio, não pensei duas vezes e fui cursar Ciência da Computação, atualmente estou no 7 semestre
 
-apaixonado por tecnologia 😍 
-## biografia
- Atualmente estou cursando Ciencia da Computação
- 
- Busco um estágio na área de front end
+# Metas 
+Busco um estágio na area de tecnologia
 
-<div  style="display:inline_block"><br>
-  
-  <img alight="right" alt="Higor" src="https://cdn.discordapp.com/attachments/887510228860534787/887510265283874816/perfi.gif">
+# Skills/Habilidades
 
-</div>
+- HTML 
+- CSS
+- Javascript basico
 
-## Conhecimentos 
-  <tr>
-
- <th><img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268331954196/1216733.png"> 
-<img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741267849584650/logo-css-3-2048.png">
-<img width ="25px" src="https://cdn.discordapp.com/attachments/961734780540571728/961741268143198218/Unofficial_JavaScript_logo_2.svg.png"> </th>
+#Redes Sociais
+ <th>
+<img width ="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+<img width ="25px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg"> </th>
   
 
 
