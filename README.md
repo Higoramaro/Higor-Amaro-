@@ -12,9 +12,10 @@ Busco um estágio na area de tecnologia
 
 # Redes Sociais
  <th>
+ <a href="https://www.linkedin.com/in/higor-amaro">
+<img width ="25px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg"> </th></a><br>
  <a  href ="https://github.com/Higoramaro" > <img width ="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> </a>
 
-<img width ="25px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg"> </th>
   
 
 
