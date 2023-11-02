@@ -1,5 +1,5 @@
 # 👋Prazer ! meu nome é Higor Amaro Inocêncio.
-Comecei gostar de tecnologia desde pequeno, foi então em 2018 quando terminei meu ensino médio, não pensei duas vezes e fui cursar Ciência da Computação, atualmente estou no 7 semestre
+Comecei gostar de tecnologia desde pequeno, foi então em 2018 quando terminei meu ensino médio, não pensei duas vezes e fui cursar Ciência da Computação, atualmente terminei o curso 
 
 # Metas 
 Busco um estágio na area de tecnologia
